@@ -28,7 +28,7 @@
 
 @end
 
-@interface HTAutocompleteTextField : UITextField
+@interface HTAutocompleteTextField : FUITextField
 
 /*
  * Designated programmatic initializer (also compatible with Interface Builder)
